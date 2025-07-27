@@ -18,6 +18,7 @@ Murmur3A provides the best result with ‘Window’ test.
 
 Other tests show the same results between CityHash32, ShakeHash32 and Murmur3A.
 
+<img width="1076" height="561" alt="image" src="https://github.com/user-attachments/assets/8efcd340-9b94-4d86-886b-4700bdacfca9" />
 
 Murmur3A outperforms ShakeHash32 (+41%) and CityHash32 (+63%).
 ShakeHash32 is faster than CityHash32 (+16%)
