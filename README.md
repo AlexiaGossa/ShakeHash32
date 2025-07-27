@@ -2,6 +2,7 @@
 ShakeHash32 is non-cryptographic hash generator developped for high speed processing of strings hash, additional UDP error checking and other general hash based tables.
 
 ShakeHash32 was written to provide improved quality, high speed and modified BSD licence than other non-cryptographic hashs.
+The ShakeHash32 is located in file "hybrid.cpp". The current license only applies to the ShakeHash32. 
 
 Google SMHasher test program is used to compare ShakeHash32, with low 32-bit result from Google CityHash, Murmur3A, MD5, SHA1, FNV and Bob Jenkin’s hash.
 All hashs are tested several times using 2 laptops (ASUS N73SV - Intel Core i7 2630QM and Alienware m17x R3 – Intel i7 2860QM).
